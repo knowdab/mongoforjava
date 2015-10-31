@@ -1,6 +1,11 @@
 # MongoDB For Java
 mongodb university에서 "M101J: MONGODB FOR JAVA DEVELOPERS 강의"를 함께 진행하며 스터디 진행  (https://university.mongodb.com/courses/MongoDB/M101J/2015_October/courseware)
 
+## 개발 환경
+  1. mongodb-driver
+  2. sparkjava : java 8 기반, web app 만들수 있는 framework
+  3. freemarker : java servlet을 위한 오픈소스 HTML Template Engjine
+
 ## 스터디 진행 방법
  * 일주일에 한번 "언제 몇시에" 스터디를 정기적으로 진행한다.
  * 일주일 chapter를 돌아가며 발표자 선정 + Open Session 과정으로 진행
